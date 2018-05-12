@@ -1,0 +1,32 @@
+_repo: The-Open-Secret-of-Ireland_15277
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kettle, Tom
+    aliases:
+    - Kettle, Thomas Michael
+    - Kettle, T. M. (Thomas Michael)
+    birthdate: 1880
+    deathdate: 1916
+    gutenberg_agent_id: '5975'
+    url: http://www.gutenberg.org/2009/agents/5975
+    wikipedia: http://en.wikipedia.org/wiki/Tom_Kettle
+description: ''
+gutenberg_issued: '2005-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Home rule -- Ireland'
+- !lcsh 'Unionism (Irish politics)'
+- !lcsh 'Ulster (Northern Ireland and Ireland) -- Politics and government'
+- !lcc 'DA'
+title: The Open Secret of Ireland
+url: http://www.gutenberg.org/ebooks/15277
