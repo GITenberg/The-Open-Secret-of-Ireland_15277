@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5975
     wikipedia: http://en.wikipedia.org/wiki/Tom_Kettle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15277#The-Open-Secret-of-Ireland
 gutenberg_issued: '2005-03-07'
 gutenberg_type: Text
 identifiers:
